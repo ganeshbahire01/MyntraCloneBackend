@@ -1,0 +1,20 @@
+{
+  "name": "myntraclonebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshbahire01/MyntraCloneBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshbahire01/MyntraCloneBackend/issues"
+  },
+  "homepage": "https://github.com/ganeshbahire01/MyntraCloneBackend#readme"
+}
